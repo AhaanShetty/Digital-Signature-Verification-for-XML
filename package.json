@@ -1,0 +1,19 @@
+{
+  "name": "aadharsign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-gyp": "^6.1.0",
+    "rebuild": "^0.1.2",
+    "xml-crypto": "^1.4.0",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23",
+    "xmldom": "^0.2.1"
+  }
+}
