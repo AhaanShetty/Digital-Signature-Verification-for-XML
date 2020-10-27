@@ -11,7 +11,7 @@
   "dependencies": {
     "node-gyp": "^6.1.0",
     "rebuild": "^0.1.2",
-    "xml-crypto": "^1.4.0",
+    "xml-crypto": "^2.0.0",
     "xml-js": "^1.6.11",
     "xml2js": "^0.4.23",
     "xmldom": "^0.2.1"
